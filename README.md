@@ -1,6 +1,6 @@
 <h1 align="center">Hello, visitor</h1>
 
-<h2 align="center">Software Developer | .NET Developer | Full Stack Web Developer | Computer Science Graduate</h2>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack Web Developer </h2>
 ###
 
 <div align="center">
