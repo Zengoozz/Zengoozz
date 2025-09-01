@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hello, visitor</h1>
 
+<h2 align="center">Software Developer | .NET Developer | Full Stack Web Developer | Computer Science Graduate</h2>
 ###
 
 <div align="center">
